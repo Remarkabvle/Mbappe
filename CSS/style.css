@@ -148,42 +148,5 @@
         font-weight: 700;
         line-height: normal;
 }
-.new-collection{
-    background-color: #000000;
-    display: flex;
-    justify-content: space-between;
-}
-.new-collection__main{
-    text-align: center;
-}
-.new-collection__main__header{
-        color: var(--white, #FFF);
-        text-align: center;
-        font-family: "Playfair Display";
-        font-size: 36px;
-        font-style: normal;
-        font-weight: 700;
-        line-height: normal;
-        text-transform: uppercase;
-}
-.new-collection__lists{
-    display: flex;
-    gap: 46.15px;
-}
-.new-collection__list__item__name{
-        color: var(--white, #FFF);
-        font-family: "Playfair Display";
-        font-size: 18px;
-        font-style: normal;
-        font-weight: 400;
-        line-height: normal;
-}
-.new-collection__list__item__money{
-        color: var(--light-gray, #D0D0D0);
-        font-family: "Playfair Display";
-        font-size: 16px;
-        font-style: normal;
-        font-weight: 700;
-        line-height: normal;
-}
+
 
